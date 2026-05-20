@@ -1,10 +1,10 @@
-# 🎵 ScreenSound
+#  ScreenSound
 
 Sistema de gerenciamento e avaliação de bandas via console, desenvolvido em C#.
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O **ScreenSound** é uma aplicação de console que permite registrar bandas, listar bandas cadastradas, avaliar bandas com notas e visualizar a média das avaliações.
 
@@ -12,17 +12,17 @@ O projeto foi desenvolvido com foco em prática de lógica de programação, est
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-* ✅ Registrar novas bandas
-* 📋 Listar bandas cadastradas
-* ⭐ Avaliar bandas com notas
-* 📊 Calcular média de avaliações por banda
-* ❌ Tratamento de bandas não encontradas
+*  Registrar novas bandas
+*  Listar bandas cadastradas
+*  Avaliar bandas com notas
+*  Calcular média de avaliações por banda
+*  Tratamento de bandas não encontradas
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * C#
 * .NET
@@ -30,7 +30,7 @@ O projeto foi desenvolvido com foco em prática de lógica de programação, est
 
 ---
 
-## 🧠 Conceitos aplicados
+##  Conceitos aplicados
 
 * Estruturas de dados (`Dictionary`, `List`)
 * Métodos e organização de código
@@ -40,7 +40,7 @@ O projeto foi desenvolvido com foco em prática de lógica de programação, est
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 ScreenSound/
@@ -49,7 +49,7 @@ ScreenSound/
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone o repositório:
 
@@ -71,7 +71,7 @@ dotnet run
 
 ---
 
-## 🎮 Como usar
+##  Como usar
 
 Ao iniciar o programa, você verá um menu com as opções:
 
@@ -87,7 +87,7 @@ Basta digitar o número da opção desejada.
 
 ---
 
-## 📈 Exemplo de uso
+##  Exemplo de uso
 
 * Registrar banda: "Linkin Park"
 * Avaliar: 10, 9, 8
@@ -95,7 +95,7 @@ Basta digitar o número da opção desejada.
 
 ---
 
-## ⚠️ Possíveis melhorias futuras
+##  Possíveis melhorias futuras
 
 * Persistência de dados (banco de dados)
 * Interface gráfica (GUI)
@@ -105,12 +105,12 @@ Basta digitar o número da opção desejada.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por Brenno Gomes
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é livre para uso e aprendizado.
